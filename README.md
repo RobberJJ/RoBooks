@@ -3,18 +3,18 @@ Some books worth reading.
 
 # Swift
 
-*__函数式Swift__*
+*__[函数式Swift](../Swift/)__*
 
-*__Advanced Swift (Swift 进阶)__*
+*__[Advanced Swift (Swift 进阶)](../Swift/)__*
 
-*__The Swift Programming Language 中文版（Swift 3.0）官网文档__*
+*__[The Swift Programming Language 中文版（Swift 3.0）官网文档](../Swift/)__*
 
-*__Swifter-Swift 开发者必备 Tips (第四版)__*
+*__[Swifter-Swift 开发者必备 Tips (第四版)](../Swift/)__*
 
 # Others
 
-*__尽管去做——无压工作的艺术__*
+*__[尽管去做——无压工作的艺术](../Others/)__*
 
-*__精通正则表达式(第3版)__*
+*__[精通正则表达式(第3版)](../Others/)__*
 
-*__数学之美__*
+*__[数学之美](../Others/)__*
