@@ -37,4 +37,4 @@ Some books worth reading.
 
 *__[数学之美](https://github.com/RobberJJ/RoBooks/tree/master/Others)__*
 
-*__[编程珠玑](https://github.com/RobberJJ/RoBooks/tree/master/Objective-C)__*
+*__[编程珠玑](https://github.com/RobberJJ/RoBooks/tree/master/Others)__*
